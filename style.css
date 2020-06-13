@@ -1,0 +1,22 @@
+div > .header{
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 1.2em;
+     color: #2ab;
+    background-color: #e9d9d9;
+    text-align: center;
+}
+
+
+
+.para{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px dash rgb(156, 45, 32);
+    padding: 1.1em;
+    background-color: #f1f1f1;
+    color: #4d4d;
+    font: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
